@@ -1,5 +1,8 @@
 # GhoStrap
 
+Version: 0.1
+GitHub Repository: https://github.com/BiosElement/GhoStrap
+
 A Bootstrap-based theme for [Ghost](http://github.com/tryghost/ghost/).
 
 ## Copyright & License
