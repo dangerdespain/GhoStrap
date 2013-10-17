@@ -9,8 +9,14 @@ body {
     color: #fff;
     background: #303538 no-repeat center center;
     background-size: cover;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 1);
+    margin-bottom: 0;
 }
 
 .site-footer {
     text-align: center;
+}
+
+.width-limit {
+    max-width: 750px;
 }
