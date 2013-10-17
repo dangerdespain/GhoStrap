@@ -18,4 +18,4 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FO
 
 ## Bootstrap License
 
-GhoStrap contains content from Bootstrap which is Copyright 2013 Twitter, Inc under the Apache 2.0 license. A copy of this license can be found in the Apache-License.txt file.
+GhoStrap contains content from Bootstrap which is Copyright 2013 Twitter, Inc under the Apache 2.0 license. A copy of this license can be found in the LICENSE.txt file.
