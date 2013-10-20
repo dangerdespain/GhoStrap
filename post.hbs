@@ -13,9 +13,10 @@
         {{! Everything below outputs content of the the post which has been published }}
 
         <h1 class="post-title">{{{title}}}</h1>
-        <span class="post-meta label label-default"><time datetime="{{date format="YYYY-MM-DD"}}">{{date format='DD MMM YYYY'}}</time> {{#if tags}}on {{tags separator=" | "}}{{/if}} by {{#if author}}{{author.name}}{{/if}}</span>
-
-        <hr />
+        <p class="lead">by {{#if author}}{{author.name}}{{/if}}</p>
+        <hr/>
+        <p><span class="glyphicon glyphicon-info-sign"></span> Posted on {{date format='DD MMM YYYY'}} {{#if tags}}on {{tags separator=" | "}}{{/if}}</p>
+        <hr/>
 
         <section class="post-content">
             {{content}}
