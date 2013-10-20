@@ -1,6 +1,6 @@
 # GhoStrap
 
-Version: 0.2
+Version: 0.3
 GitHub Repository: https://github.com/BiosElement/GhoStrap
 
 A Bootstrap-based theme for [Ghost](http://github.com/tryghost/ghost/).
@@ -25,6 +25,8 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## Bootstrap License
+## Library Licenses
 
-GhoStrap contains content from Bootstrap which is Copyright 2013 Twitter, Inc under the Apache 2.0 license. A copy of this license can be found in the LICENSE.txt file.
+- Bootstrap is Copyright 2013 Twitter, Inc under the Apache 2.0 license. A copy of this license can be found in the LICENSE.txt file.
+- Font Awesome is released under the MIT & SIL OFL 1.1 Licences
+- Credit to Dustin Graves for the Picasa library
