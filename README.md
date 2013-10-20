@@ -5,6 +5,10 @@ GitHub Repository: https://github.com/BiosElement/GhoStrap
 
 A Bootstrap-based theme for [Ghost](http://github.com/tryghost/ghost/).
 
+## Install Instructions
+
+To install this theme, simply download the latest zip, extract the contained files into a folder called 'ghostrap' and place it in your ghost/content/themes/ folder. Please be sure not to use capital letters in the folder name or Ghost will crash. This is due to tryghost/ghost#981.
+
 ## Copyright & License
 
 Copyright (C) 2013 William Chambers - Released under the MIT License.
